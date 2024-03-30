@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="search_hint">Masukkan username</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+
+</resources>
